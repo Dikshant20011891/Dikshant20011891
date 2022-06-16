@@ -1,6 +1,6 @@
 ### Hi there, I'm Dikshant Joshi 👋 
 
-<img align="right" src="./coding.gif" height=200px width=150px>
+<img align="right" src="./coding.gif" height=250px width=200px>
 
 <br>
 <i>I am pursuing a <b>B.Tech in Computer Science (2020-24)</b> at <b>Graphic Era Hill University,Dehradun </b>.</i>
