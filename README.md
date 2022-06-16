@@ -1,9 +1,9 @@
 ### Hi there, I'm Dikshant Joshi 👋 
 
-<img align="right" src="./gif.gif" length=250px width=250px>
+<img align="right" src="./coding.gif" length=250px width=250px>
 
 <br>
-<i>I am pursuing a <b>B.Tech in Computer Science (2020-24)</b> at <b>Graphic Era Deemed University</b>.</i>
+<i>I am pursuing a <b>B.Tech in Computer Science (2020-24)</b> at <b>Graphic Era Hill University,Dehradun </b>.</i>
 <br>
 
 ## I'm a Student, Programmer, Developer, and Gamer!!
