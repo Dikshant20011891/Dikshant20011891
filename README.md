@@ -1,4 +1,4 @@
-# Hi there, I'm Dikshant Joshi 👋 
+### Hi there, I'm Dikshant Joshi 👋 
 
 ## I'm a Student, Programmer, Developer, and Gamer!!
 
