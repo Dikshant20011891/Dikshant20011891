@@ -3,7 +3,7 @@
 <img align="right" src="./gif.gif" length=250px width=250px>
 
 <br>
-<i>I am pursuing a <b>B.Tech in Computer Science (2020-24)</b> at <b>Graphic Era Deemed University</b>. Additionally, I'm <b>UI/UX Designer.</i></b>
+<i>I am pursuing a <b>B.Tech in Computer Science (2020-24)</b> at <b>Graphic Era Deemed University</b>.</i>
 <br>
 
 ## I'm a Student, Programmer, Developer, and Gamer!!
